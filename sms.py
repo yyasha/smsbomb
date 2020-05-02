@@ -8,9 +8,7 @@ banner = """
 |                                                    |
 | [--] Have Services: 51                             |
 |                                                    |
-| [--] Created by: @c3berman                         |
-|                                                    |
-| [--] Telegram channel: @detectent                  |
+| [--] Created by: https://github.com/yyasha         |
 |                                                    |
 | [--] Version: 1.0.6                                |
 |____________________________________________________|
