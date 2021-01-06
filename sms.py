@@ -335,11 +335,3 @@ while True:
 		print('[+] Delivery отправлено!')
 	except:
 		print('[-] Не отправлено!')
-
-
-
-	try:
-		iteration += 1
-		print(('{} круг пройден.').format(iteration))
-	except:
-		break
