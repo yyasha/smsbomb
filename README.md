@@ -1,15 +1,17 @@
 # smsbomb
 
 use python3
+
+# Conponents:
 ```
 pip3 install requests
 ```
-# to start with multithreading:
+# To start with multithreading:
 ```
 python3 sms_with_threading.py
 ```
 
-# to start in a circle:
+# To start in a circle:
 ```
 python3 sms_with_while.py
 ```
